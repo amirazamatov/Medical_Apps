@@ -1,6 +1,6 @@
 # Medical Apps
 
-<a><img width=100% src="https://github.com/amirazamatov/Medical_apps/blob/master/icon.jpg"></a>
+<p align=center><img width=30% src="https://github.com/amirazamatov/Medical_apps/blob/master/icon.jpg"></p>
 
 <p align=center>
     Репозиторий для проектов, позвященных созданию медицинских приложений с графическим интерфейсом. Заказчикам необходмимо было простое решение для практического применения разработанных алгоритмов. В части программ основу алгоритма составили модели логистической регрессии, обученные на предоставленных заказчиком данных.   
@@ -11,8 +11,8 @@
 Программа обрабатывает материнские факторы риска преэклампсии и предиабета на этапе преконцепционного консультирования с последующей оценкой риска реализации преэклампсии и составлением индивидуального плана прегравидарной подготовки. 
 
 <p>
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm1_1.jpg">
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm1_2.jpg">
+   <img width=48% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm1_1.jpg">
+   <img width=48% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm1_2.jpg">
 </p>
 
 ### [2. Контроль эффективности профилактических мероприятий у беременных высокого риска преэклампсии](https://github.com/amirazamatov/Medical_apps/blob/master/monitoring_the_effectiveness_of_preventive_measures.py)
@@ -22,8 +22,8 @@
 В основу алгоритма заложена модель логистической регрессии (Sklearn)
 
 <p>
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm2_1.jpg">
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm2_2.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm2_1.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm2_2.jpg">
 </p>
 
 ### [3. Дифференцированный подход к проведению двухэтапной превенции преэклампсии](https://github.com/amirazamatov/Medical_apps/blob/master/two_stage_prevention_of_preeclampsia.py)
@@ -31,8 +31,8 @@
 Программа обрабатывает материнские факторы риска преэклампсии на этапе преконцепционного консультирования с последующей оценкой риска реализации преэклампсии и предоставлением рекомендаций по профилактическому лечению.   
 
 <p>
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm3_1.jpg">
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm3_2.jpg">
+   <img width=48% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm3_1.jpg">
+   <img width=48% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm3_2.jpg">
 </p>
 
 ### [4. Программа прогнозирования эффективности хирургического лечения бесплодия у женщин с эндометриозом I-II стадии](https://github.com/amirazamatov/Medical_apps/blob/master/predicting_the_effectiveness_of_surgical_treatment_of_infertility.py)
@@ -42,8 +42,8 @@
 В основу алгоритма заложена модель логистической регрессии (Sklearn)
 
 <p>
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm4_1.jpg">
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm4_2.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm4_1.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm4_2.jpg">
 </p>
 
 ### [5. Программа прогнозирования рецидива эндометриоидных кист яичников после проведенного хирургического лечения](https://github.com/amirazamatov/Medical_apps/blob/master/predicting_the_recurrence_of_endometrioid_cyst.py)
@@ -53,7 +53,7 @@
 В основу алгоритма заложена модель логистической регрессии (Sklearn)
 
 <p>
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm5_1.jpg">
-   <img width=50% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm5_2.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm5_1.jpg">
+   <img width=40% src="https://github.com/amirazamatov/Medical_apps/blob/master/screens/programm5_2.jpg">
 </p>
 
